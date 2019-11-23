@@ -1,0 +1,2 @@
+include ':app', ':intent', ':intent-compiler'
+rootProject.name='DestinationAnnotationProcessor'
